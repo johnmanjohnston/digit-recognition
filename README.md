@@ -26,9 +26,11 @@ starting from 1. So your file names should be `1.png`, `2.png`, `3.png`,  and so
 
 ## Demo Screenshots
 On running the `train.py` file, we see the progress in training the model
+
 ![image](https://user-images.githubusercontent.com/97091148/213222797-04218e1e-f5d5-4f49-80e2-5b3d0f1d7019.png)
 
 A folder, with the model name is then created, where the model is stored.
 
 On running the `main.py` file, we see the model predicting the digits present in the `testing/` directory
+
 ![image](https://user-images.githubusercontent.com/97091148/213223758-3f88095e-146e-4da3-ad2b-567ec06ad35e.png)
