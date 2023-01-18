@@ -1,7 +1,6 @@
 import tensorflow as tf # tf?
 import numpy as np
 from modeldefinitions import *
-import matplotlib.pyplot as plt
 import cv2 as cv
 import os
 

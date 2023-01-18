@@ -1,7 +1,5 @@
 import tensorflow as tf 
 import modelhandler as ml
-import numpy as np
-import os
 from modeldefinitions import *
 
 
