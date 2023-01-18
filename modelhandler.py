@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 def add_layer(model, units: int, activ: tf.nn) -> tf.keras.models.Sequential:
-    model.add(tf.keras.layers.Dense(units=units, activation=tf.nn.relu))
+    model.add(tf.keras.layers.Dense(units=units, activation=activ))
 
 
 def instansiate(model, main_units: int, activ: tf.nn) -> tf.keras.models.Sequential:
