@@ -9,10 +9,10 @@ The image resolotuion for the custom testing data is `28x28 pixels`.
 ## Installation/Setup
 The installation commands bellow, assume that you're using Bash. If you're using PowerShell/Command Prompt (kekw), replace all instances of `python3` with `py` in the commands.
 
-Install Python (3.8 used in development)
-Install TensorFlow (`python3 -m pip install tensorflow`)
-Install OpenCV (`python3 -m pip install opencv-python`)
-Install NumPy (`python3 -m pip install numpy`)
++ Install Python (3.8 used in development)
++ Install TensorFlow (`python3 -m pip install tensorflow`)
++ Install OpenCV (`python3 -m pip install opencv-python`)
++ Install NumPy (`python3 -m pip install numpy`)
 
 If you want to train the model before using it, run `python3 train.py`
 Then, to see how the model perceieves the testing data in the `testing/` directory, run `python3 main.py`
