@@ -18,7 +18,7 @@ If you want to train the model before using it, run `python3 train.py`
 Then, to see how the model perceieves the testing data in the `testing/` directory, run `python3 main.py`
 
 You should see results with the filename, and the answers coming on screen.
-Do note the model isn't perfect, but has a really good accuracy. When I tested it, I managed to get an 90% success rate when I used the model 
+Do note the model isn't perfect, but has a really good accuracy. When I tested it, I once managed to get an 90% success rate when I used the model 
 against the testing set that I had made.
 
 If you want to use your own images, draw numbers on a `28x28` image, and place them in the `testing/` directory, and name the files using numbers, in ascending order,
