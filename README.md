@@ -14,7 +14,7 @@ The installation commands bellow, assume that you're using Bash. If you're using
 + Install OpenCV (`python3 -m pip install opencv-python`)
 + Install NumPy (`python3 -m pip install numpy`)
 
-If you want to train the model before using it, run `python3 train.py`
+You have to train the model before using it, run `python3 train.py`
 Then, to see how the model perceieves the testing data in the `testing/` directory, run `python3 main.py`
 
 You should see results with the filename, and the answers coming on screen.
